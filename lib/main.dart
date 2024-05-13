@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ini edit dari vs code',
+      title: 'ini edit dari vs code dengan branch dev',
       theme: ThemeData(
         // This is the theme of your application.
         //
